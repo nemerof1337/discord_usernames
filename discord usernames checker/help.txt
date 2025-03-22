@@ -1,0 +1,5 @@
+1- Go to data then to proxies.txt and enter your proxies inside.
+2- Click on checker.py and type pip install -r requirements.txt
+3- Wait and start generating your 3 letters.
+
+Warning: If the checker.py bug occurs, open the file, run, then click start. Good generation to you ;)
